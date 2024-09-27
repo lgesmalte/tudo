@@ -1,0 +1,36 @@
+~ O que é LGPD?
+Lei Geral de Proteção de Dados Pessoais
+A Lei Geral de Proteção de Dados Pessoais, ou Lei nº 13.709/2018, é a lei brasileira aprovada em 2018 que controla a privacidade e o uso/tratamento de dados pessoais, e que também altera os artigos 7º e 16º do Marco Civil da Internet. 
+Wikipédia
+
+~ O que são dados pessoais, sigilosos e sensíveis?
+Dados pessoais é o conjunto de informações distintas que podem levar à identificação de uma determinada pessoa. E os dados pessoais sensíveis são aqueles que, quando revelados, podem gerar algum tipo de discriminação.
+GOV.BR
+
+-EXEMPLOS: 
+Exemplos: nome, RG, CPF, gênero, data e local de nascimento, número do telefone, endereço residencial, endereço eletrônico (e-mail), dados de localização via GPS, placa de automóvel, imagem fotográfica ou computacional, cartão bancário, etc.
+tjce
+
+~ Quando se programam págins para uma empresa, o que pode ser de uso coletivo (todos podem visualizar) e o que só pode ser acessado via login?
+
+ACESSO PÚBLICO:
+Página Inicial
+Sobre Nós
+Serviços/Produtos
+Blog/Notícias
+Contato
+FAQ
+Testemunhos
+
+ACESSO RESTRITO (VIA LOGIN):
+Área do Cliente
+Dashboard Administrativo
+Relatórios Financeiros
+Conteúdo Exclusivo
+Perfil do Usuário
+Documentação Interna
+Fórum/Comunidade Exclusiva
+
+~ O que é um diagrama de banco de dados?
+Um diagrama de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados.
+lucidchart

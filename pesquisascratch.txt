@@ -1,0 +1,23 @@
+*REQUISITOS FUNCIONAIS DO SCRATCH:*
+
+1. Editor de Blocos Intuitivo: Scripts fáceis de entender e usar;
+2. Ser acessível em diferentes dispositivos para aumentar a utilidade no Scratch;
+3. Biblioteca de recursos visuais e sonoros;
+4. Salvamento e carregamento na nuvem;
+5. Capacidade de Compartilhamento: Facilitar o compartilhamento de projetos com outros usuários do Scratch;
+6. Poder criar scripts que respondam a eventos específicos;
+7. Os usuários podem criar animações interativas usando movimentos, efeitos visuais e transições;
+8. Poder criar jogos;
+9. Os usuários podem controlar o comportamento dos personagens, definindo movimentos, e etc.
+
+*REQUISITOS NÃO FUNCIONAIS DO SRATCH*
+
+1. Desempenho eficiente do Scratch;
+2. Segurança dos dados dos usuários;
+3. Ser acessível para usuários com deficiências através de suporte com leitores de tela por exemplo;
+4. Certificar-se que o Scratch funcione de forma correta em outros navegadores da web;
+5. Atualizações regulares e suporte técnico para garantir que o Scratch continue funcionando;
+6. Fornecer recursos para que os usuários aprendam a usar o Scratch com facilidade;
+7. Suporte para pessoas de outros países com uma variedade de idiomas e adaptando o Scratch para diferentes culturas;
+8. Proteção contra spam e abuso;
+9. Existem mecanismos de recuperação de dados e mecanismos que garantem que o Scratch lide com interrupções e falhas no wifi de forma eficaz;

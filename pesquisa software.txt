@@ -1,0 +1,65 @@
+Gestão de projetos é um conjunto de práticas que serve de guia a um grupo para trabalhar de maneira produtiva. 
+Ela compreende métodos e ferramentas que organizam as tarefas, identificam sua sequência de execução e dependências 
+existentes, apóia a alocação de recursos e tempo, além de permitir o rastreamento da execução das atividades e 
+medição do progresso relativo ao que foi definido no plano de projeto.
+
+Através da gestão de projeto de software é possível:
+* Prever o orçamento e mantê-lo;
+* Contratar o número correto de colaboradores; 
+* Estabelecer prazos e trabalhar para cumpri-los;
+* Determinar cada etapa do desenvolvimento.
+
+Três pilares formam a base da gestão de projetos: ter foco no cliente, fazer a equipe trabalhar bem 
+(leia-se de forma produtiva e colaborativa) e administrar os recursos (de tempo, pessoal, financeiro) do projeto. 
+A gestão de projetos de software compreende atividades que visam assegurar que o (sistema ou produto de) software 
+seja entregue ao cliente no prazo pré-definido e esteja de acordo com os requisitos definidos pelo cliente. 
+Essa necessidade da gestão de projetos se deve ao fato de o desenvolvimento de software estar sempre sujeito às 
+restrições de qualidade, tempo e orçamento.
+
+Para que a área de TI de sua empresa possa ser vista como estratégica, é preciso atuar de maneira mais próxima a 
+esta equipe. Não apenas porque a tecnologia pode contribuir para a otimização de toda a empresa, mas também para o 
+seu crescimento. 
+ Hoje, os projetos de software são cada vez mais importantes por conta da necessidade de armazenamento e segurança de
+ dados. E estes dois fatores são estratégicos para a confiabilidade de uma empresa. 
+
+Para realizar esse passo, é importante atentar-se às seguintes perguntas:
+* Que tipo de projeto estamos tratando?
+* Como iremos esquematizá-lo? (rascunhe as funcionalidades do projeto antes de pensar em design)
+* Quais as áreas envolvidas?
+* Nosso time tem uma ferramenta para integrar equipes no processo de desenvolvimento?
+* Qual o prazo estipulado, quais os custos estimados e qual o escopo idealizado?
+* Quais são as premissas?
+* Vamos precisar de lidar com quais restrições?  
+
+De posse de todas as informações necessárias para criar seu projeto (advindas de sucessivas reuniões com stakeholders
+ – desenvolvedores, time de infra e cliente), é chegada a hora de montar um paradigma que sirva indistintamente para
+ diversos projetos. As fases de levantamento de requisitos, desenvolvimento do software, homologação, teste e 
+implantação devem ser delineadas e subdividas em componentes menores e facilmente gerenciáveis. Quem trabalha com 
+metodologias ágeis como o Scrum sabe bem quanto os Sprints auxiliam a monitorar o andamento dos trabalhos da equipe.
+
+O caminho crítico é o caminho mais longo que um projeto pode ter. Trata-se de uma estimativa de prazos máximos de 
+cada atividade, cujas durações somadas culminam no prazo total do projeto. Definir quais as sequências no avanço de 
+cada etapa, as folgas de cronograma e as alternativas em caso de erros são detalhes fundamentais para o sucesso de 
+um projeto.
+
+Após a implantação, a última etapa é a de manutenção, que se concentra na correção de erros que possam surgir no 
+software e na identificação de melhorias e novas funcionalidades.
+Corrigir erros que possam surgir no software após a implementação;
+Identificação de melhorias e novas funcionalidades;
+Acompanhamento do desempenho do software.
+
+Os requisitos funcionais são as ações específicas que um sistema ou aplicativo deve ser capaz de executar. Eles são 
+as capacidades concretas e as operações que o software deve fazer para atender às necessidades e expectativas do 
+usuário.
+
+Enquanto os requisitos funcionais direcionam o que um software deve fazer, os requisitos não funcionais especificam 
+como o software deve fazer isso. Eles são cruciais para a qualidade e a eficiência do software, abrangendo 
+aspectos como desempenho, segurança, confiabilidade e usabilidade. Esses requisitos não estão diretamente ligados às
+funções específicas do software, mas sim à sua operação e ambiente.
+
+*FONTES*
+www.devmedia.com.br
+www.monitoratec.com.br
+gaea.com.br
+artia.com
+querobolsa.com.br
